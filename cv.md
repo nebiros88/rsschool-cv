@@ -22,6 +22,7 @@ Hi!I'm Sergey and i'm going to start work as a front-end developer soon, with th
 * HTML5
 * CSS3
 * JavaScript
+* Vue.js
 * Git
 * Language 
     > Russian/Belarussian - native
