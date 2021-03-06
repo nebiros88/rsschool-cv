@@ -1,16 +1,11 @@
 
- ---
-
  ## Sergey Korbut
-
  ---
-
  ### Contacts
  ---
  * E-mail: nebiros1988@gmail.com
  * Skype: live:nebiros_88
  * Tel: +37529 1905619
-
  ---
 ### Summary
 ---
